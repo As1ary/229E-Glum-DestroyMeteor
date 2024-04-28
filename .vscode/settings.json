@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Destroy Meteor.sln"
+    "dotnet.defaultSolution": "229E-Glum-DestroyMeteor.sln"
 }
