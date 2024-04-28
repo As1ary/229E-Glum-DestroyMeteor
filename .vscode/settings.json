@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "229E-Glum-DestroyMeteor.sln"
+    "dotnet.defaultSolution": "229e-glum-pongping.sln"
 }
